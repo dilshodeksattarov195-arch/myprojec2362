@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevtringify",
+        "uuid": 10388076,
+        "checksum": "vmx2gd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
